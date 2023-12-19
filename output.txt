@@ -1,0 +1,201 @@
+Iteration 1
+100 at -10
+96.04 at -9.8
+92.16 at -9.6
+Iteration 2
+96.04 at -9.8
+92.16 at -9.6
+88.36 at -9.4
+Iteration 3
+92.16 at -9.6
+88.36 at -9.4
+84.64 at -9.2
+Iteration 4
+88.36 at -9.4
+84.64 at -9.2
+81 at -9
+Iteration 5
+84.64 at -9.2
+81 at -9
+77.44 at -8.8
+Iteration 6
+81 at -9
+77.44 at -8.8
+73.96 at -8.6
+Iteration 7
+77.44 at -8.8
+73.96 at -8.6
+70.56 at -8.4
+Iteration 8
+73.96 at -8.6
+70.56 at -8.4
+67.24 at -8.2
+Iteration 9
+70.56 at -8.4
+67.24 at -8.2
+64 at -8
+Iteration 10
+67.24 at -8.2
+64 at -8
+60.84 at -7.8
+Iteration 11
+64 at -8
+60.84 at -7.8
+57.76 at -7.6
+Iteration 12
+60.84 at -7.8
+57.76 at -7.6
+54.76 at -7.4
+Iteration 13
+57.76 at -7.6
+54.76 at -7.4
+51.84 at -7.2
+Iteration 14
+54.76 at -7.4
+51.84 at -7.2
+49 at -7
+Iteration 15
+51.84 at -7.2
+49 at -7
+46.24 at -6.8
+Iteration 16
+49 at -7
+46.24 at -6.8
+43.56 at -6.6
+Iteration 17
+46.24 at -6.8
+43.56 at -6.6
+40.96 at -6.4
+Iteration 18
+43.56 at -6.6
+40.96 at -6.4
+38.44 at -6.2
+Iteration 19
+40.96 at -6.4
+38.44 at -6.2
+36 at -6
+Iteration 20
+38.44 at -6.2
+36 at -6
+33.64 at -5.8
+Iteration 21
+36 at -6
+33.64 at -5.8
+31.36 at -5.6
+Iteration 22
+33.64 at -5.8
+31.36 at -5.6
+29.16 at -5.4
+Iteration 23
+31.36 at -5.6
+29.16 at -5.4
+27.04 at -5.2
+Iteration 24
+29.16 at -5.4
+27.04 at -5.2
+25 at -5
+Iteration 25
+27.04 at -5.2
+25 at -5
+23.04 at -4.8
+Iteration 26
+25 at -5
+23.04 at -4.8
+21.16 at -4.6
+Iteration 27
+23.04 at -4.8
+21.16 at -4.6
+19.36 at -4.4
+Iteration 28
+21.16 at -4.6
+19.36 at -4.4
+17.64 at -4.2
+Iteration 29
+19.36 at -4.4
+17.64 at -4.2
+16 at -4
+Iteration 30
+17.64 at -4.2
+16 at -4
+14.44 at -3.8
+Iteration 31
+16 at -4
+14.44 at -3.8
+12.96 at -3.6
+Iteration 32
+14.44 at -3.8
+12.96 at -3.6
+11.56 at -3.4
+Iteration 33
+12.96 at -3.6
+11.56 at -3.4
+10.24 at -3.2
+Iteration 34
+11.56 at -3.4
+10.24 at -3.2
+9 at -3
+Iteration 35
+10.24 at -3.2
+9 at -3
+7.84 at -2.8
+Iteration 36
+9 at -3
+7.84 at -2.8
+6.76 at -2.6
+Iteration 37
+7.84 at -2.8
+6.76 at -2.6
+5.76 at -2.4
+Iteration 38
+6.76 at -2.6
+5.76 at -2.4
+4.84 at -2.2
+Iteration 39
+5.76 at -2.4
+4.84 at -2.2
+4 at -2
+Iteration 40
+4.84 at -2.2
+4 at -2
+3.24 at -1.8
+Iteration 41
+4 at -2
+3.24 at -1.8
+2.56 at -1.6
+Iteration 42
+3.24 at -1.8
+2.56 at -1.6
+1.96 at -1.4
+Iteration 43
+2.56 at -1.6
+1.96 at -1.4
+1.44 at -1.2
+Iteration 44
+1.96 at -1.4
+1.44 at -1.2
+1 at -1
+Iteration 45
+1.44 at -1.2
+1 at -1
+0.64 at -0.8
+Iteration 46
+1 at -1
+0.64 at -0.8
+0.36 at -0.6
+Iteration 47
+0.64 at -0.8
+0.36 at -0.6
+0.16 at -0.4
+Iteration 48
+0.36 at -0.6
+0.16 at -0.4
+0.04 at -0.2
+Iteration 49
+0.16 at -0.4
+0.04 at -0.2
+4.21856e-30 at -2.05391e-15
+Iteration 50
+0.04 at -0.2
+4.21856e-30 at -2.05391e-15
+0.04 at 0.2
+-2.05391e-15

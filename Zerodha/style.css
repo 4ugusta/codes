@@ -1,0 +1,15 @@
+* {
+    margin: none;
+    padding: none;
+}
+body {
+    margin: 0px;
+}
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    padding-left: 100px;
+    padding-right: 100px;
+    box-shadow: 2px 1px 2px #eee;
+    
+}
